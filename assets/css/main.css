@@ -174,10 +174,11 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	/* .image.main img {
-    width: 54%;
-    margin-left: 23%;
-} */
+	.img {
+		margin-left: 20%;
+   
+  
+}
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
