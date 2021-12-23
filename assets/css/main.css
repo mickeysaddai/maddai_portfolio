@@ -1687,3 +1687,11 @@ input, select, textarea {
 	margin-bottom: 10px;
 	border: 4px solid rgba(235, 228, 228, 0.1);
 	}
+
+	.ecoroute{
+		color: rgb(255, 94, 0);
+	}
+
+	.ampe{
+		color: rgb(255, 94, 0);
+	}
